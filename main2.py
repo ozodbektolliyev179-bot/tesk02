@@ -1,2 +1,1 @@
-print('b')
-print('a')
+https://github.com/ozodbektolliyev179-bot/Python-If-Statement.git
